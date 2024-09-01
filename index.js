@@ -1,5 +1,5 @@
 const consoleTheText = ()=>{
-    console.log("console the test")
+    console.log("console the test new changes")
 }
 
 consoleTheText()
